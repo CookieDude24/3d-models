@@ -1,0 +1,1 @@
+various 3d models I made that don't warrant the effort of giving them one repo each. you are free to use and modify these models however you want
